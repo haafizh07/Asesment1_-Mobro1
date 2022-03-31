@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">test</string>
+    <string name="soal">Tentukan kuat arus yang mengalir bila tegangan listrik suatu rangkaian
+        listrik sebesar 15 Volt resistor yang dipasang sebesar 30 Ω.</string>
+    <string name="diket">Diketahui</string>
+    <string name="ditanya">Ditanya</string>
+    <string name="hambatan">Hambatan (R)</string>
+    <string name="tegangan">Tegangan Listrik (V)</string>
+    <string name="I">I</string>
+    <string name="V">V</string>
+    <string name="R">R</string>
+    <string name="hitung">Hitung</string>
+    <string name="Arus_x">Kuat Arus Listrik: %1$.1f( I )</string>
+</resources>
